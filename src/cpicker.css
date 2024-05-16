@@ -1,0 +1,26 @@
+.main-box{
+   border: 2px solid gray;
+   border-radius: 10px;
+   height: 150px;
+   width: 150px;
+   
+}
+
+
+#para{
+   position: relative;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-130%);
+   text-align: center;
+   
+}
+
+.picker{
+   border: 1px solid red;
+   display: inline-block;
+   text-align: center;
+   padding: 10px;
+   margin-top: 10px;
+   margin-left: 10px;
+}

@@ -1,0 +1,73 @@
+
+.box{
+   border: 2px solid maroon;
+   padding: 10px;
+   text-align: center;
+   background-color: hsl(64, 90%, 60%);
+   width: 450px;
+   
+
+}
+
+h2{
+   text-decoration: underline 1px rgb(7, 7, 7);
+   color: blue;
+}
+
+#year-input, #model-input, #make-input {
+   margin-bottom: 10px;
+   border: none;
+   padding : 10px;
+   border-radius: 7px;
+   background-color: rgb(58, 226, 226);
+   color: rgb(8, 0, 2);
+   font-weight: 900;
+   
+}
+
+#green{
+   border: none;
+   padding: 10px 20px;
+   font-weight:700;
+   background-color: rgb(5, 114, 23);
+   color: white;
+   border-radius: 10px;;
+   margin-top: 5px;
+}
+
+#red-but{
+   border: 1px solid;
+   padding: 10px 10px;
+   font-weight:700;
+   background-color: rgb(240, 25, 125);
+   color: white;
+   border-radius: 10px;;
+}
+
+
+#delete-all{
+   border: none;
+   padding: 10px 20px;
+   font-weight:700;
+   background-color: rgb(236, 5, 5);
+   color: white;
+   border-radius: 10px;;
+   margin-top: 5px;
+}
+
+ol{
+   margin: 0;
+   padding: 0;
+}
+
+li{
+   font-weight: 800;
+   font-size: 1rem;
+   padding: 7px;
+   border: 2px solid gray;
+   margin-bottom: 5px;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+}
+
